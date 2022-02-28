@@ -1,7 +1,7 @@
 <#Link Detroyer Version1.0
 By Jonas Wenger
 #>
-Write-Host "RelyonAG Chocolatey Installer ver.1.0 by Jonas Wenger"
+Write-Host "RelyonAG ver.1.0 by Jonas Wenger"
 # Name of the link to delete
 $lnk = "teamviewer host.lnk"
 
